@@ -222,7 +222,7 @@ This error occurs if the user provided <b>Apigee Edge Org Name</b> or the <b>Bea
 
 Below is the sample Screenshot.
 
-![image](https://user-images.githubusercontent.com/19343906/167112664-527c1e4e-f696-4218-9f56-eb51042edf04.png)
+![image](https://user-images.githubusercontent.com/19343906/167250609-9525bd89-1e3b-470e-84f4-b49d9a3e82ef.png)
 
 
 <b> 2. Python is not recognized as an internal or external</b>
