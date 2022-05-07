@@ -68,11 +68,11 @@ You will need Apigee Edge Org Name and a fresh Bearer Token .
   </tr>
   <tr>
       <td>Apigee Edge Org Name</td>
-      <td>eg.  favarity-wings-768733</td>
+      <td>eg.  yesyter-eval</td>
   </tr>
   <tr>
       <td>Bearer Token</td>
-      <td>eg.  ya29.A0ARrdaM9_Vyd3snc9yml_JwPYr6oohyFs23gKj7Po60Uwu3PL_T9oI9lJKODSXgPNuZpvFLbEI59uHJZQrN4EUQDtT8HE6KKwgcatsAU3W5MomV9_EEWoFemHhUUUbtKOAys_TW8bju-nwo8C7Yt1dqLj2rdqbuCq5LvkdwCo6HchtXvSWgAUOIISY1yg25PZLiJ2sGQSV_X_wZ1jmAURdA3zKAzbLihA5THpQfNKmzKJfpZ64d8fIbL4JnXWsZ8ONXtuPjmPpw</td>
+      <td>eg.  eyJhbGciOiJSUzI1NiJ9.eyJqdGkiOiI0OTFlZjBhZi1kM2I5LTQ1MzUtODFkNi0zZTdkMDRiYTA0MmUiLCJzdWIiOiIyOTliNDA1Ni03NWM0LTQ3YzItYmE2My1mZDljNmI4NThlZTUiLCJzY29wZSI6WyJzY2ltLmVtYWlscy5yZWFkIiwic2NpbS5tZSIsIm9wZW5pZCIsInBhc3N3b3JkLndyaXRlIiwiYXBwcm92YWxzLm1lIiwic2NpbS5pZHMucmVhZCIsIm9hdXRoLmFwcHJvdmFscyJdLCJjbGllbnRfaWQiOiJlZGdlY2xpIiwiY2lkIjoiZWRnZWNsaSIsImF6cCI6ImVkZ2VjbGkiLCJncmFudF90eXBlIjoicGFzc3dvcmQiLCJ1c2VyX2lkIjoiMjk5YjQwNTYtNzVjNC00N2MyLWJhNjMtZmQ5YzZiODU4ZWU1Iiwib3JpZ2luIjoidXNlcmdyaWQiLCJ1c2VyX25hbWUiOiJuaXRpbm1haGF2aXIyMDIxQGdtYWlsLmNvbSIsImVtYWlsIjoibml0aW5tYWhhdmlyMjAyMUBnbWFpbC5jb20iLCJhdXRoX3RpbWUiOjE2NTE5MTIyMzQsImFsIjowLCJyZXZfc2lnIjoiZGQ5ZDFkN2YiLCJpYXQiOjE2NTE5MTIyMzQsImV4cCI6MTY1MTk1NTQzNCwiaXNzIjoiaHR0cHM6Ly9sb2dpbi5hcGlnZWUuY29tIiwiemlkIjoidWFhIiwiYXVkIjpbImVkZ2VjbGkiLCJzY2ltLmVtYWlscyIsInNjaW0iLCJvcGVuaWQiLCJwYXNzd29yZCIsImFwcHJvdmFscyIsInNjaW0uaWRzIiwib2F1dGgiXX0.kr_C4Jg3NGdme7KZGlkQGJGMQxapwinsuDqMb1HA1J_Epr2Gm_7UKrPpQslBJoGFFQ60SWB0wDjNcLXdOu7g-vjreRuGXYS76VDWPLML8ZAtp8moXjCNEd683AZHwcMCL4PqDStAaxfGlUYbPx27-RwBI-hP_7PwAFyefP8HNOxeq1hH6ZdZX-y0RcRXIsOabxU8_2-VR33kf0h2ZzCXCeqR-cxSx5omojTKf1YAKLyFt2l7rJtoXgMpwIJYwCZcU_qjax6WESEosAXHOpSPIjZlmFVh_4rRjoFGn8To4AUT8ImBe7jpvKQCNqwKkkWGkYZ6HnsPnFTBz6leVIKMhg</td>
   </tr>  
 </table>
 
@@ -114,8 +114,7 @@ Once we are at the root directory in the command prompt use below command to sta
 </ul>
 
 You will presented with several options to download information,resources and entities based on your use-case.
-![image](https://user-images.githubusercontent.com/19343906/166515345-70198be1-b0a1-48ca-8ba6-9dd72d7e2680.png)
-
+![image](https://user-images.githubusercontent.com/19343906/167250040-6bca84ed-4dfd-43d5-9724-68e8c3b2fcba.png)
 There are 8 Available Options:
 <ol>
   <li>Download All Resources</li>
