@@ -11,7 +11,7 @@ import requests
 from pathlib import Path
 from datetime import date
 
-folder_name="data-apigee-edge-"+str(date.today())
+folder_name="data-apigee-edge"
 
 class DownloadResources:
 	def __init__(self, arg):
