@@ -211,7 +211,7 @@ Below is the sample Screenshot.
 
 The following folder structure with data will be created in your current directory.
 
-![image](https://user-images.githubusercontent.com/19343906/166903611-116ea3f3-2dce-4aff-a50e-125b7b08f11d.png)
+![image](https://user-images.githubusercontent.com/19343906/167250492-f7e59b19-7232-4c8a-83c5-0d718852f1cc.png)
 
 # Errors !!! 
 Only 2 errors might occur while using the tool.
