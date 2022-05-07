@@ -76,6 +76,18 @@ You will need Apigee Edge Org Name and a fresh Bearer Token .
   </tr>  
 </table>
 
+
+# How to Generate Bearer Token for Apigee Edge Org
+
+Curl Command to Generate Apigee Egde Token
+
+curl -H "Content-Type:application/x-www-form-urlencoded;charset=utf-8" \       
+-H "Accept: application/json;charset=utf-8" \     
+-H "Authorization: Basic ZWRnZWNsaTplZGdlY2xpc2VjcmV0" \      
+-X POST https://login.apigee.com/oauth/token \      
+-d 'username=yourusername&password=yourpassword&grant_type=password'
+
+
 # How to Use the tool
 
 Method 1: 
